@@ -6,7 +6,7 @@
 
 package br.com.dio.basics;
 
-public class User {
+public class SmartTVUser {
     public static void main(String[] args) throws Exception {
         SmartTV smartTV = new SmartTV();
 
