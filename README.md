@@ -8,5 +8,5 @@ This package is where I save small programs
 whose purpose is to illustrate some concept 
 I found interesting during the classes. 
 
-## datastructures
+## Datastructures
 This one contains examples of the Data Structures class.

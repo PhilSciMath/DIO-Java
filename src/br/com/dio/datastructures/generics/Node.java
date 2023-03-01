@@ -2,11 +2,11 @@
 
 package br.com.dio.datastructures.generics;
 
-public class NodeGenerics<T> {
+public class Node<T> {
     private T content;      // The content can be any type now.
-    private NodeGenerics<T> nextNode;
+    private Node<T> nextNode;
 
-    public NodeGenerics(T content) {
+    public Node(T content) {
         this.content = content;
     }
 
@@ -18,17 +18,17 @@ public class NodeGenerics<T> {
         this.content = content;
     }
 
-    public NodeGenerics<T> getNextNode() {
+    public Node<T> getNextNode() {
         return nextNode;
     }
 
-    public void setNextNode(NodeGenerics<T> nextNode) {
+    public void setNextNode(Node<T> nextNode) {
         this.nextNode = nextNode;
     }
 
     @Override
     public String toString() {
-        return "NodeGenerics{" +
+        return "Node{" +
                 "content=" + content +
                 '}';
     }
