@@ -1,6 +1,6 @@
 // Refactoring of the class Node to be generic.
 
-package br.com.dio.basics;
+package br.com.dio.datastructures.generics;
 
 public class NodeGenerics<T> {
     private T content;      // The content can be any type now.

@@ -1,6 +1,6 @@
 // Example from Data Structures class, using nodes.
 
-package br.com.dio.basics;
+package br.com.dio.datastructures.node;
 
 public class Node {
     private String content;      // the content

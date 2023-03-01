@@ -1,14 +1,14 @@
 // This uses the Node class to illustrate how nodes work.
 
-package br.com.dio.basics;
+package br.com.dio.datastructures.generics;
 
-public class NodeMain {
+public class NodeGenericsMain {
     public static void main(String[] args) {
 
-        Node node1 = new Node("content from node1");
-        Node node2 = new Node("content from node2");
-        Node node3 = new Node("content from node3");
-        Node node4 = new Node("content from node4");
+        NodeGenerics<String> node1 = new NodeGenerics<>("content from node1");
+        NodeGenerics<String> node2 = new NodeGenerics<>("content from node2");
+        NodeGenerics<String> node3 = new NodeGenerics<>("content from node3");
+        NodeGenerics<String> node4 = new NodeGenerics<>("content from node4");
 
         // To make node n to point to node n+1:
         node1.setNextNode(node2);

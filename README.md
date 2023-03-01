@@ -7,3 +7,6 @@ bootcamp at Digital Innovation One.
 This package is where I save small programs 
 whose purpose is to illustrate some concept 
 I found interesting during the classes. 
+
+## datastructures
+This one contains examples of the Data Structures class.
