@@ -1,4 +1,4 @@
-// Implementation of a stack (pile) class.
+// Implementation of a stack (pile) class [last in first out].
 
 package br.com.dio.datastructures.stack;
 
