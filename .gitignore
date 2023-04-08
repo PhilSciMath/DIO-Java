@@ -1,5 +1,4 @@
 ### IntelliJ IDEA ###
-DIO-Java.iml
 .idea/
 out/
 !**/src/main/**/out/
