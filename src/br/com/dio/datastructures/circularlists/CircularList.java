@@ -1,4 +1,4 @@
-package br.com.dio.datastructures.circular_lists;
+package br.com.dio.datastructures.circularlists;
 
 public class CircularList<T> {
 
