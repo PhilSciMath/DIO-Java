@@ -65,9 +65,6 @@ public class Main {
         System.out.println(dev2.getName() + " - XP: " + dev2.computeXp());
 
 
-
-
-
     }
 
 }
