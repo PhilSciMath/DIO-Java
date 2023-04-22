@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44154fd5-7e8f-422a-961e-be6742b090d3" name="Changes" comment="More fixings.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/ArrayListExercise$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/ArrayListExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/ComparatorName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/HashSetExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/MapExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/OrderingMaps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/StreamAPIExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/WeatherTemperature.class" beforeDir="false" />
+    <list default="true" id="44154fd5-7e8f-422a-961e-be6742b090d3" name="Changes" comment="That's a lot of fixings.">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/OOPchallenge/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/OOPchallenge/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/OOPchallenge/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/OOPchallenge/Dev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/OOPchallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/OOPchallenge/Mentoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +44,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/src/br/com/dio" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -99,7 +101,28 @@
       <option name="project" value="LOCAL" />
       <updated>1682166144407</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="More fixings.">
+      <created>1682166895631</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682166895631</updated>
+    </task>
+    <task id="LOCAL-00008" summary="More fixings.">
+      <created>1682166908300</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682166908300</updated>
+    </task>
+    <task id="LOCAL-00009" summary="That's a lot of fixings.">
+      <created>1682167012028</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682167012028</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,7 +142,8 @@
     <MESSAGE value="Added my first object oriented program ever." />
     <MESSAGE value="Added collections." />
     <MESSAGE value="More fixings." />
-    <option name="LAST_COMMIT_MESSAGE" value="More fixings." />
+    <MESSAGE value="That's a lot of fixings." />
+    <option name="LAST_COMMIT_MESSAGE" value="That's a lot of fixings." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
