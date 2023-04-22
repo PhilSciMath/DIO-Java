@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44154fd5-7e8f-422a-961e-be6742b090d3" name="Changes" comment="Added collections.">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/collections/ArrayListExercise.java" beforeDir="false" />
+    <list default="true" id="44154fd5-7e8f-422a-961e-be6742b090d3" name="Changes" comment="More fixings.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/ArrayListExercise$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/ArrayListExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/ComparatorName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/HashSetExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/MapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/OrderingMaps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/StreamAPIExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIO-Java/br/com/dio/collections/WeatherTemperature.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681246565808</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="More fixings.">
+      <created>1682166071946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682166071946</updated>
+    </task>
+    <task id="LOCAL-00006" summary="More fixings.">
+      <created>1682166144407</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682166144407</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +118,8 @@
     <MESSAGE value="Fixing minor stuff." />
     <MESSAGE value="Added my first object oriented program ever." />
     <MESSAGE value="Added collections." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added collections." />
+    <MESSAGE value="More fixings." />
+    <option name="LAST_COMMIT_MESSAGE" value="More fixings." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
